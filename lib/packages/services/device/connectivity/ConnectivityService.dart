@@ -1,4 +1,4 @@
-import 'package:connectivity/connectivity.dart';
+import 'package:connectivity_plus/connectivity_plus.dart';
 import 'package:softi_packages/packages/services/device/connectivity/ConnectivityServiceInterface.dart';
 
 var _map = {
