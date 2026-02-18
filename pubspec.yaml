@@ -8,12 +8,12 @@ environment:
   flutter: ">=1.17.0"
 
 dependencies:
-  cloud_firestore: ^5.0.1
+  cloud_firestore: ^6.1.2
   connectivity_plus: ^5.0.0
-  firebase_analytics: ^11.0.1
-  firebase_auth: ^5.1.0
-  firebase_dynamic_links: ^6.0.1
-  firebase_storage: ^12.0.1
+  firebase_analytics: ^12.1.2
+  firebase_auth: ^6.1.4
+
+  firebase_storage: ^13.0.6
   flutter:
     sdk: flutter
   flutter_easyloading: ^3.0.5
@@ -24,7 +24,7 @@ dependencies:
   get: ^4.6.5
   get_storage: ^2.0.3
   google_sign_in: ^6.1.4
-  image_cropper: ^7.0.4
+  image_cropper: ^8.0.0
   json_annotation: ^4.6.0
   multiple_result: ^5.0.0
   sign_in_with_apple: ^6.1.0
